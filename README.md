@@ -1,3 +1,3 @@
 # ML-project
 
-<h1> SMS spam classifier </h1>
+<h3> SMS spam classifier </h3>
